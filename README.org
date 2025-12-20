@@ -1,0 +1,9 @@
+* cepl.sdl2
+
+SDL2 backend for CEPL window management.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/cbaggers/cepl.sdl2.git |
+| commit  | 6da5a03                                       |
+| systems | cepl.sdl2                                     |
+|---------+-----------------------------------------------|
