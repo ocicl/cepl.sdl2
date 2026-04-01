@@ -7,3 +7,4 @@ SDL2 backend for CEPL window management.
 | commit  | 6da5a03                                       |
 | systems | cepl.sdl2                                     |
 |---------+-----------------------------------------------|
+ 
